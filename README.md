@@ -1,5 +1,5 @@
 # Smart-Building-System-Dataset
-Original dataset link: https://www.kaggle.com/ranakrc/smart-building-system. 
+Original dataset link: https://www.kaggle.com/ranakrc/smart-building-system.
 
 Original authors: Dezhi Hong, Quanquan Gu, Kamin Whitehouse. High-dimensional Time Series Clustering via Cross-Predictability. In AISTATS'17.
 
@@ -17,4 +17,4 @@ If you use the dataset, please consider citing the following paper:
 
 
 ## Purpose
-This dataset is used for time series prediction of optimizing building climate. You can find the repo [here](https://github.com/AvansETI/SmartGridAI) if you are interested. The original data has been transformed to be used for the transformer network in pytorch forecasting and pytorch lightning.
+This dataset is used for time series prediction of optimizing building climate. You can find the repo [here (AvansETI/SmartGridAI)](https://github.com/AvansETI/SmartGridAI) if you are interested. The original data has been transformed to be used for the transformer network in pytorch forecasting and pytorch lightning.
